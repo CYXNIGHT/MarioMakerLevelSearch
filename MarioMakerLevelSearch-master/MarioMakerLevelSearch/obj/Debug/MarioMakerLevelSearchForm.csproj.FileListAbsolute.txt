@@ -1,0 +1,13 @@
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\MarioMakerLevelSearch.exe.config
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\MarioMakerLevelSearch.exe
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\MarioMakerLevelSearch.pdb
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearchForm.csprojAssemblyReference.cache
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearch.MarioMakerLevelSearch.resources
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearch.Properties.Resources.resources
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearchForm.csproj.GenerateResource.cache
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearchForm.csproj.CopyComplete
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearch.exe
+C:\Users\Green\source\repos\MarioMakerLevelSearch\MarioMakerLevelSearch\obj\Debug\MarioMakerLevelSearch.pdb

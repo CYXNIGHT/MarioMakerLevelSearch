@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioMakerLevelSearchForm", "MarioMakerLevelSearch\MarioMakerLevelSearchForm.csproj", "{F292D171-5404-4A40-A7F5-BE38F0AA66B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioMakerLevelSearchWPF", "MarioMakerLevelSearchWPF\MarioMakerLevelSearchWPF.csproj", "{8CE56849-AAA1-4130-AC3F-B014EAC2BF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F292D171-5404-4A40-A7F5-BE38F0AA66B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F292D171-5404-4A40-A7F5-BE38F0AA66B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F292D171-5404-4A40-A7F5-BE38F0AA66B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F292D171-5404-4A40-A7F5-BE38F0AA66B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE56849-AAA1-4130-AC3F-B014EAC2BF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE56849-AAA1-4130-AC3F-B014EAC2BF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE56849-AAA1-4130-AC3F-B014EAC2BF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE56849-AAA1-4130-AC3F-B014EAC2BF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0FFE612-5490-4D4E-B12E-7CA795766FFB}
+	EndGlobalSection
+EndGlobal
