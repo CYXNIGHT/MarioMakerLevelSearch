@@ -10,3 +10,5 @@ The windows forms version is working 100%, though does require some quality-of-l
 The WPF app doesn't work, as I have not put much time, nor effort, into it.
 
 Feel free to bettererer my code
+
+(Mario Maker Bookmark got shutdown)
